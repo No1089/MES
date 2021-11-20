@@ -1,0 +1,5 @@
+My wife is an avid horse rider and I’ve always wanted to build a system to aid in safety while riding - some implementations exist, but nothing that’s affordable or practical to use.
+
+For the system I’d like to build a helmet clip-on that accurately detects falls, while accommodating normal inputs from the rough sport that is horse riding.
+This would require a fast IMU and processing, along with either long range wireless communication or cellular backhaul - both capable of surviving an actual fall. A companion piece would be a vitals monitor for the rider and horse that includes proximity detection.
+Accurate and fast filtering would avoid false positives.
